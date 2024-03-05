@@ -1,0 +1,15 @@
+#PBS -S /bin/bash
+#PBS -q normalq
+#PBS -N tryjobcSd
+#PBS -l nodes=2:ppn=30
+#PBS -l walltime=23:00:00
+#PBS -M gbaguida@my.erau.edu
+#PBS -m abe
+#PBS -o outcSd.txt
+#PBS -e errcSd.txt
+#PBS -d /scratch/derjanyp/Audrey_folder/New_2D_CNT
+
+cd $PBS_O_WORKDIR
+module load matlab/2016b
+matlab -nodesktop -nosplash -r Strain_HYBRID_2D &> outcSd..log
+

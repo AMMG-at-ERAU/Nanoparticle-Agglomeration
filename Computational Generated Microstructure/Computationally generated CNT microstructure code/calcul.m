@@ -1,0 +1,35 @@
+% L = 0.15
+% t = 0.2
+% a = -5.1
+% b = -1.3
+% R_L = exp(a);
+% s = exp(b);
+% R = L*R_L
+% radius = t*R
+% shell = R - radius
+%Vex = ((32*pi/3)*R^3)*((1-t^3)+(0.75*L/R)*(1-t^2)+(3/32)*(1-t)*(L/R)^2);
+% qp = (s+1)/Vex
+% Vf = qp*(L*pi*radius^2)
+
+L = 0.15
+%L = 5
+%V = 15^3;
+V = 1;
+%t = 0.2;
+%t = 0.96
+t = 0.6
+%t = 0.8
+L_R = 200
+%L_R = 50
+R = L/L_R
+radius = t*R
+shell = R - radius
+%s_1 = 1.24
+s_1 = 1.17
+%s_1 = 1.12
+s_1 = 1.15 
+Vex = ((32*pi/3)*R^3)*((1-t^3)+(0.75*L/R)*(1-t^2)+(3/32)*(1-t)*(L/R)^2);
+qp = (s_1)/Vex
+Nc = qp * V
+Vf = qp*(L*pi*radius^2)
+Vf*100

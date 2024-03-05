@@ -1,0 +1,4 @@
+PBS: chdir to '/scratch/dejarnyp' failed: No such file or directory
+=>> PBS: job killed: walltime 82804 exceeded limit 82800
+=>> PBS: job killed: walltime 86439 exceeded limit 86400
+=>> PBS: job killed: walltime 86427 exceeded limit 86400

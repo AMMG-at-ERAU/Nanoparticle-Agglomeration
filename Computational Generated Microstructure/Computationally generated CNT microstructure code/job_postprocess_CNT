@@ -1,0 +1,15 @@
+#PBS -S /bin/bash
+#PBS -q normalq
+#PBS -N Sttryjobc1
+#PBS -l nodes=1:ppn=36
+#PBS -l walltime=23:59:00
+#PBS -M gbaguida@my.erau.edu
+#PBS -m abe
+#PBS -o Stoutc1.txt
+#PBS -e Sterrc1.txt
+#PBS -d /scratch/sikulsks/Audrey_folder/CNT_Cond_3D
+
+cd $PBS_O_WORKDIR
+module load matlab/2016b
+matlab -nodesktop -nosplash -r postprocess &> Stoutc1..log
+

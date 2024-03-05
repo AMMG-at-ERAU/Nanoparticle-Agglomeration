@@ -1,0 +1,23 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ... {Error using parallel.Cluster/parpool (line 81)
+You requested a minimum of 60 workers, but the cluster "local" has the
+NumWorkers property set to allow a maximum of 36 workers. To run a
+communicating job on more workers than this (up to a maximum of 512 for the
+Local cluster), increase the value of the NumWorkers property for the cluster.
+The default value of NumWorkers for a Local cluster is the number of cores on
+the local machine.
+
+Error in Cond_HYBRID_2D_bis (line 3)
+parpool(mycluster1Hbis,60,'SpmdEnabled',false);
+} 
+>> 

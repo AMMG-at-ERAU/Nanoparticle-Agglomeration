@@ -1,0 +1,15 @@
+#PBS -S /bin/bash
+#PBS -q normalq
+#PBS -N tryjobcond1
+#PBS -l procs=60
+#PBS -l walltime=23:00:00
+#PBS -M gbaguida@my.erau.edu
+#PBS -m abe
+#PBS -o outCond1.txt
+#PBS -e errCond1.txt
+#PBS -d /scratch/derjanyp/Audrey_folder/New_2D_CNT
+
+cd $PBS_O_WORKDIR
+module load matlab/2016b
+matlab -nodesktop -nosplash -r Conductivity_CNT_2D_data &> outCond1..log
+

@@ -1,0 +1,6 @@
+In DistSeg2Seg.m
+Change when you have to use A_ResNetwork_Soft_leafs.m or A_ResNetwork_Soft_leafs_notouch.m
+
+In PfA_main_Grid_small to use real PBC
+change  A_PBC.m to A_PBC1.m
+Change A_GenerateHardCore_Grids_small_boxp.m to A_GenerateHardCore_Grids_small_boxp_PBC.m

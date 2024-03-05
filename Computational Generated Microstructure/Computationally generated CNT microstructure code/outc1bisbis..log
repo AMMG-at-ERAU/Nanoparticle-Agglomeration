@@ -1,0 +1,24 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ... connected to 60 workers.
+// Volume fraction right now = 0.1217
+// Volume fraction right now = 0.12445
+// Volume fraction right now = 0.1272
+// Volume fraction right now = 0.12995
+// Volume fraction right now = 0.15
+// Volume fraction right now = 0.2
+// Volume fraction right now = 0.25
+// Volume fraction right now = 0.3
+// Volume fraction right now = 0.35
+// Volume fraction right now = 0.4
+Parallel pool using the 'local' profile is shutting down.
+>> 

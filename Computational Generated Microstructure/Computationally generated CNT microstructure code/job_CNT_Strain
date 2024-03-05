@@ -1,0 +1,15 @@
+#PBS -S /bin/bash
+#PBS -q normalq
+#PBS -N tryjobcS
+#PBS -l procs=60
+#PBS -l walltime=24:00:00
+#PBS -M gbaguida@my.erau.edu
+#PBS -m abe
+#PBS -o outcS.txt
+#PBS -e errcS.txt
+#PBS -d /scratch/derjanyp/Audrey_folder/New_2D_CNT
+
+cd $PBS_O_WORKDIR
+module load matlab/2016b
+matlab -nodesktop -nosplash -r Strain_CNT_2D &> outcS..log
+

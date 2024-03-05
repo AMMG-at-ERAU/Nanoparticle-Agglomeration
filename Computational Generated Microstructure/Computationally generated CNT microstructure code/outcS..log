@@ -1,0 +1,6176 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ... connected to 60 workers.
+[Warning: The temporary variable Rff will be cleared at the beginning of each
+iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If Rff is used before
+it is assigned in the parfor loop, a runtime error will occur.
+See Parallel for Loops in MATLAB, "Temporary Variables".] 
+[> In Strain_CNT_2D (line 1070)] 
+[Warning: The temporary variable result will be cleared at the beginning of each
+iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If result is used
+before it is assigned in the parfor loop, a runtime error will occur.
+See Parallel for Loops in MATLAB, "Temporary Variables".] 
+[> In Strain_CNT_2D (line 1070)] 
+[Warning: The temporary variable fLAG will be cleared at the beginning of each
+iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If fLAG is used before
+it is assigned in the parfor loop, a runtime error will occur.
+See Parallel for Loops in MATLAB, "Temporary Variables".] 
+[> In Strain_CNT_2D (line 1070)] 
+[Warning: The temporary variable junct will be cleared at the beginning of each
+iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If junct is used before
+it is assigned in the parfor loop, a runtime error will occur.
+See Parallel for Loops in MATLAB, "Temporary Variables".] 
+[> In Strain_CNT_2D (line 1070)] 
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag1 =
+
+     0
+
+
+flag2 =
+
+     0
+
+
+flag1 =
+
+     0
+

@@ -1,0 +1,15 @@
+#PBS -S /bin/bash
+#PBS -q normalq
+#PBS -N tryjobc2
+#PBS -l procs=60
+#PBS -l walltime=23:00:00
+#PBS -M gbaguida@my.erau.edu
+#PBS -m abe
+#PBS -o outc2.txt
+#PBS -e errc2.txt
+#PBS -d /scratch/gbaguida
+
+cd $PBS_O_WORKDIR
+module load matlab/2016b
+matlab -nodesktop -nosplash -r CNT_Cond_reduced1 &> outc2..log
+
